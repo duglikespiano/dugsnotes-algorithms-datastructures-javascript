@@ -34,3 +34,4 @@
 0. Vitest 설치 및 설정
 1. String Reversal
 2. Palindrome
+3. Reversing an integer
