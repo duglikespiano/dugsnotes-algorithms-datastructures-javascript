@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/duglikespiano/algorithms-datastructures/issues"
   },
-  "homepage": "https://github.com/duglikespiano/algorithms-datastructures#readme"
+  "homepage": "https://github.com/duglikespiano/algorithms-datastructures#readme",
+  "devDependencies": {
+    "vitest": "^0.34.4"
+  }
 }
