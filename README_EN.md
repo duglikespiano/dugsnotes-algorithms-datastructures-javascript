@@ -33,3 +33,4 @@
 
 0. Installation and Setting for Vitest
 1. String Reversal
+2. Palindrome

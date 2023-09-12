@@ -33,3 +33,4 @@
 
 0. Vitest 設置及び設定
 1. String Reversal
+2. Palindrome
