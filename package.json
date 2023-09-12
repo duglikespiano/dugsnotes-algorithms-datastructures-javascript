@@ -1,22 +1,19 @@
 {
-  "name": "algorithmsdatastructures",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/duglikespiano/algorithms-datastructures.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/duglikespiano/algorithms-datastructures/issues"
-  },
-  "homepage": "https://github.com/duglikespiano/algorithms-datastructures#readme",
-  "devDependencies": {
-    "vitest": "^0.34.4"
-  }
+	"name": "algorithmsdatastructures",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "vitest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/duglikespiano/algorithms-datastructures.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/duglikespiano/algorithms-datastructures/issues"
+	},
+	"homepage": "https://github.com/duglikespiano/algorithms-datastructures#readme"
 }

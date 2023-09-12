@@ -32,3 +32,4 @@
 ### 3. 배운 내용 </br>
 
 0. Vitest 설치 및 설정
+1. String Reversal
