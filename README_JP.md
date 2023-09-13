@@ -38,3 +38,4 @@
 4. Max character
 5. Fizzbuzz
 6. Array chunking
+7. Anagram
