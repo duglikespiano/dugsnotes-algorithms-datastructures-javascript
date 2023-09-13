@@ -36,3 +36,4 @@
 2. Palindrome
 3. Reversing an integer
 4. Max Character
+5. Fizzbuzz
