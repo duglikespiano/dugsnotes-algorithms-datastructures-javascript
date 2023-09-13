@@ -39,3 +39,4 @@
 5. Fizzbuzz
 6. Array chunking
 7. Anagram
+8. Sentence capitalization
