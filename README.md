@@ -18,7 +18,7 @@
 - 참고URL : https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
 - 기간 : 2023.09.12 - 진행 중
 - 기술스택 : </br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   </br>
   </br>
 
@@ -41,3 +41,4 @@
 7. Anagram
 8. Sentence capitalization
 9. Printing steps
+10. Printing pyramids
