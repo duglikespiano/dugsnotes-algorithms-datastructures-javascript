@@ -32,8 +32,9 @@
 ### 3. 具現機能 </br>
 
 0. Vitest 設置及び設定
-1. String Reversal
+1. String reversal
 2. Palindrome
 3. Reversing an integer
-4. Max Character
+4. Max character
 5. Fizzbuzz
+6. Array chunking

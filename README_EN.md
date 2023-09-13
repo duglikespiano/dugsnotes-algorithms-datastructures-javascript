@@ -32,8 +32,9 @@
 ### 3. What I learned </br>
 
 0. Installation and Setting for Vitest
-1. String Reversal
+1. String reversal
 2. Palindrome
 3. Reversing an integer
-4. Max Character
+4. Max character
 5. Fizzbuzz
+6. Array chunking
