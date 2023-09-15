@@ -42,3 +42,4 @@
 8. Sentence capitalization
 9. Printing steps
 10. Printing pyramids
+11. Counting vowels
