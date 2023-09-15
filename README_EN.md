@@ -50,3 +50,4 @@
 16. Stack
 17. Queue from stack
 18. Linked list
+19. Midpoint in linked list
