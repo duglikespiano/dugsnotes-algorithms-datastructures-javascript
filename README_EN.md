@@ -47,3 +47,4 @@
 13. Fobinacci sequence
 14. Queue
 15. Queue weaving
+16. Stack
