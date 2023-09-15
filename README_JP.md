@@ -49,3 +49,4 @@
 15. Queue weaving
 16. Stack
 17. Queue from stack
+18. Linked list
