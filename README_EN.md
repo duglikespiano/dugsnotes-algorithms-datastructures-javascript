@@ -48,3 +48,4 @@
 14. Queue
 15. Queue weaving
 16. Stack
+17. Queue from stack
