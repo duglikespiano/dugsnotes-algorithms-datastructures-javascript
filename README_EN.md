@@ -1,4 +1,4 @@
-# algorithms-and-data-structure-javascript(en)
+# dugsnotes_algorithms_and_data_structure_javascript(en)
 
 ##### [한국어 버전은 이 곳을 클릭해주세요](README.md)
 
@@ -14,9 +14,9 @@
 
 ### 1. Overview
 
-- Project title : algorithms-and-data-structure-javascript
-- Reference URL : https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/
-- Period : Sep 12 2023 - in progress
+- Project title : dugsnotes_algorithms_and_data_structure_javascript
+- Reference URL : https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure
+- Period : Sep 12 2023 - Sep 15 2023
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   </br>
